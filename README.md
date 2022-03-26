@@ -20,7 +20,7 @@ $ ./speller ./dictionaries/large ./texts/lalaland.txt
 
 Output:
 ```
-\<list of misspelled words\>
+<list of misspelled words>
 
 WORDS MISSPELLED:     955
 WORDS IN DICTIONARY:  143091
