@@ -1,6 +1,6 @@
 # SpellCheck
 A spell checker implemented in the C programming language. 
-The code has been adapted from one that was provided during a university course, and I implemented the spell checking function using a hashtable.
+The code has been adapted from one that was provided during a university course, and I implemented the spell checking function using a hashtable. This was one of my projects in the course, CS50.
 
 ## Usage
 Compile the code using the makefile. 
